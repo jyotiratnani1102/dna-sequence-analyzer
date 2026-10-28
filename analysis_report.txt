@@ -1,0 +1,13 @@
+DNA SEQUENCE ANALYSIS REPORT
+============================
+Sequence ID: U49845.1
+Sequence length: 5028 bp
+Nucleotide counts: {'G': 835, 'A': 1510, 'T': 1609, 'C': 1074}
+
+Nucleotide percentages:
+A: 30.03%
+T: 32.00%
+G: 16.61%
+C: 21.36%
+GC content: 37.97%
+RNA preview: GAUCCUCCAUAUACAACGGUAUCUCCACCUCAGGUUUAGAUCUCAACAACGGAACCAUUG
